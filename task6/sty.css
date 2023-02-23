@@ -1,0 +1,22 @@
+.div{
+  
+    background-color: rgba(187, 185, 185, 0.434);
+    color: black;
+   font-family: 'Times New Roman', Times, serif;
+   width: 700px;
+   
+   
+  }
+  div::before{
+    content: " ";
+    width: 0px;
+    height: 10px;
+    border: solid;
+    color: red;
+    
+    right: 100%;
+  }
+  
+  
+  
+  

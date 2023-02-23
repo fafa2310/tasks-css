@@ -1,0 +1,26 @@
+.div{
+  
+    background-color: rgba(187, 185, 185, 0.434);
+    color: black;
+   font-family: 'Times New Roman', Times, serif;
+   width: 700px;
+   position: relative;
+   
+   
+  }
+  div::before{
+    content: " ";
+    width: 0px;
+    height: 30px;
+    border: solid;
+    color: red;
+    position: absolute;
+    right: 100%;
+  
+  }
+  
+  span{
+    color:red;
+  }
+  
+  

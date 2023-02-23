@@ -1,0 +1,23 @@
+body{
+    background-image: url("image.jpg");
+  }
+  div{
+    height: 400px;
+    width: 400px;
+    
+    color: black;
+  }
+  
+  
+  .div1 {
+    background-image: url("Screenshot_20221130_092645.png");
+  }
+  
+  .div2 {
+    background-image: url("P1134530-clik.jpg")
+  }
+  
+  .div3{
+    background-image: url("686e8ea550175d933a334f6b15cd0e6b.jpg")
+  }
+  
