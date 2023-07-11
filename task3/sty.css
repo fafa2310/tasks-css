@@ -1,3 +1,12 @@
+div {
+  width:400px;
+  height:400px ;
+  background-image: url("photo_2022-08-22_11-18-54.jpg");
+  font-size: 16px;
+  background-size: contain;
+  padding: 20px;
+}
+
 .div1 {
     background-repeat: no-repeat;
   }
